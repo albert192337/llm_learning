@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "e4c0d9f58f02dde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1708327c7b5cdec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd640c19a6642f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent相关范式.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent相关范式"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "209ed11a89e126dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc62e2ea127ae9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58065919e6cfbf7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "11e4f53a8a1c81cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2da2508f515722fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "71eb2480de666283",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bff7daed7d3064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370b49e7d0dd9a66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "强化学习代码.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "强化学习代码 的反向链接列表"
+            }
+          },
+          {
+            "id": "9920acf9bf830af2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "强化学习代码.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "强化学习代码 的出链列表"
+            }
+          },
+          {
+            "id": "9686e9da6ce5f03b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5e1ab21890444695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "强化学习代码.md"
+              },
+              "icon": "lucide-list",
+              "title": "强化学习代码 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9dd640c19a6642f2",
+  "lastOpenFiles": [
+    "leaderborad.md",
+    "Agent相关范式.md",
+    "大模型的评价指标工具和基准.md",
+    "API接口的主要参数.md",
+    "pytorch中有用到cuda实现吗.md",
+    "CUDA并行编程.md",
+    "COT过程和生成结果的过程是两个过程吗.md",
+    "COT专业分析.md",
+    "COT.md",
+    "MOE框架.md",
+    "提高GPU资源部署效率、使用效率，降低适配成本.md",
+    "训练和推理中的优化技术.md",
+    "Docker和容器化技术.md",
+    "kubrnetes（K8s）.md",
+    "vLLM和SGLang的区别和联系.md",
+    "KVQ是什么.md",
+    "为什么只有KV没有Q.md",
+    "PD分离.md",
+    "异构计算产品.md",
+    "火山引擎异构计算.md",
+    "VLLM介绍.md",
+    "IAAS是什么.md",
+    "Transformer网络.md",
+    "RL框架.md",
+    "强化学习代码.md",
+    "算力基本认知.md"
+  ]
+}
