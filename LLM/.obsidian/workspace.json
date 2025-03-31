@@ -13,72 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算力基本认知.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "算力基本认知"
-            }
-          },
-          {
-            "id": "2cbc19c05d73d5ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "注意力机制.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "注意力机制"
-            }
-          },
-          {
-            "id": "7d89c4e577af4e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "为什么只需要KV缓存.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "为什么只需要KV缓存"
-            }
-          },
-          {
-            "id": "f3089fe0f0f64d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型大的是什么.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大模型大的是什么"
-            }
-          },
-          {
-            "id": "f71b692592ca1608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "深度神经网络结构的理解.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "深度神经网络结构的理解"
             }
+          },
+          {
+            "id": "44d5ed5021f0b090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "token序列和维度的深入理解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "token序列和维度的深入理解"
+            }
+          },
+          {
+            "id": "0f43cf7d23a09486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "什么是预测下一个token.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "什么是预测下一个token"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 315.5
   },
   "right": {
     "id": "71eb2480de666283",
@@ -220,33 +192,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f71b692592ca1608",
+  "active": "0f43cf7d23a09486",
   "lastOpenFiles": [
-    "大模型大的是什么.md",
+    "token序列和维度的深入理解.md",
+    "什么是预测下一个token.md",
     "深度神经网络结构的理解.md",
-    "为什么只需要KV缓存.md",
-    "注意力机制.md",
-    "算力基本认知.md",
-    "IAAS是什么.md",
-    "COT专业分析.md",
-    "COT.md",
-    "Agent相关范式.md",
-    "训练和推理中的优化技术.md",
-    "什么指令集来衡量FLOPS.md",
     "强化学习代码.md",
-    "大模型的评价指标工具和基准.md",
+    "KVQ是什么.md",
+    "COT过程和生成结果的过程是两个过程吗.md",
+    "Agent相关范式.md",
+    "注意力机制.md",
+    "大模型大的是什么.md",
+    "为什么只需要KV缓存.md",
     "leaderborad.md",
+    "大模型的评价指标工具和基准.md",
     "API接口的主要参数.md",
     "pytorch中有用到cuda实现吗.md",
     "CUDA并行编程.md",
-    "COT过程和生成结果的过程是两个过程吗.md",
+    "COT专业分析.md",
+    "COT.md",
     "MOE框架.md",
     "提高GPU资源部署效率、使用效率，降低适配成本.md",
+    "训练和推理中的优化技术.md",
     "Docker和容器化技术.md",
     "kubrnetes（K8s）.md",
     "vLLM和SGLang的区别和联系.md",
-    "KVQ是什么.md",
     "为什么只有KV没有Q.md",
-    "PD分离.md"
+    "PD分离.md",
+    "异构计算产品.md"
   ]
 }
